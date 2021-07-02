@@ -43,3 +43,5 @@ $./mvnw sonar:sonar \
  -Dsonar.password=password \
  -Dsonar.java.binaries=target/classes
 ```
+
+test CI
